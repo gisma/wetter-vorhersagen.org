@@ -135,38 +135,25 @@ Gute vorhersage für Nordeuropa und im Winter für die Alpen
 
 
 
-## Typischer Ablauf der Wettervorhersage für eine Tour
+## Typischer Ablauf der Wettervorhersage 3 x 3 Matrix
 
-**Maximal 14 Tage vorher:**
+**Planung im Vorfeld - Maximal 14 Tage vorher:**
 
+* Langfristprognose z.b. Wetteronline (Achtung grenzt an Wahrsagerei!)
+* Planung vor Ort - Täglich max 1 Woche eher 3 Tage vor der geplanten Tour:**
+* Allgmeine Wetterinfo, Wetterlage einordnen (z.b. Stabiles Hochdruckgebiet, Nordstau etc.) z.B mit MeteoBlue, Wetteronline, Weatherpro, Alpenvereinwetter)
+* Sehr hilfreich für die Abschätzung der Qualität ist der Multimodellvergleich von Meteoblue (je chaotischer die Linien auseinander gehen um so unwahrscheinlicher die Vorhersage Sicherheit)
 
-
-*    Langfristprognose z.b. Wetteronline (Achtung grenzt an Wahrsagerei!)
-
-**Täglich ab 1 Woche vor der geplanten Tour:**
-
-
-
-*   ** **Allgmeine Wetterinfo, Großwetterlage einordnen (z.b. Stabiles Hochdruckgebiet, Nordstau etc.) z.B mit MeteoBlue, Wetteronline, Weatherpro, Alpenvereinwetter)
-*    Sehr hilfreich für die Abschätzung der Qualität ist der Multimodellvergleich von Meteoblue (je chaotischer die Linien auseinander gehen um so unwahrscheinlicher die Vorhersage Sicherheit)
-
-**Am Tag vorher:** 
-
-
+**Planung Vor Ort - Am Tag vorher/Am Morgen:** 
 
 *   genauer Check von Vorhersage, der Multimodellvorhersage und visueller Vergleich von Vorhersage und Wetterradar( je stärker die Muster Abweichen desto variabler wird die Vorhersage stimmen)
 
 **Am Tourtag: **
 
-
-
-*   Vor der Tour Abgleich mit der Vorhersage des Vortages
-*   Festlegen von kritischen Checkzeitpunkten mit rücksicht auf die Tour und Teilnehmer 
-*   Regelmäßige Wetterbeobachtung und Vergleich mit dem Wetterradar
+*   Vor der Tour Abgleich mit der **Vorhersage** des Vortages
+*   Festlegen von kritischen Checkzeitpunkten mit Rücksicht auf die Tour und Teilnehmer (
+*   Regelmäßige Wetterbeobachtung und wenn möglich Vergleich mit dem Wetterradar
 *   **NIEMALS** aktuell während des Spielens und Ratschens  “**SCHÖNEM WETTER”** vertrauen!
-
-
-## 
 
 
 ## **Einsatz der Meteogramme**

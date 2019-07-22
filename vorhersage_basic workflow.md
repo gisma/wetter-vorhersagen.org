@@ -158,7 +158,7 @@ Gute vorhersage für Nordeuropa und im Winter für die Alpen
 
 ## **Einsatz der Meteogramme**
 
-Obwohl nicht geübt bieten die Meteogramme ein hervorragendes Werkzeug eine mehrtägige Vorhersage  in einer höheren Komplexität in ihrer Entwicklung zu beurteilen Insbesondere geeignet für die Planung einer mehrtägigen Aktion oder der Feinplanung der Tour einige Tage zuvor. Im Prinzip selbsterklärend da sie mit Piktogrammen und Symbolen arbeitet und z.B. Temperatur und Niederschlagsentwicklung im Tages bzw. Wochengang darstellt. Aus meiner Einschätzung sind die Meteoblue Meteogramme die beste Wahl allerdings auch recht komplex. Für den Anfang tut es auch Weather Pro oder Wetteronline. 
+Auch ungeübt bieten die sogenannten Meteogramme ein hervorragendes Werkzeug eine mehrtägige Wetterentwicklung in recht hoher Komplexität zu beurteilen  Im Prinzip selbsterklärend da sie mit Piktogrammen und Symbolen arbeitet und z.B. Temperatur und Niederschlagsentwicklung im Tages bzw. Wochengang darstellt. Aus meiner Einschätzung sind die Meteoblue Meteogramme die beste Wahl. Für den Anfang tut es auch Weather Pro oder Wetteronline. 
 
 
 

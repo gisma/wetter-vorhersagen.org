@@ -27,7 +27,7 @@ Bitte beachtet das die Iphone und Android Versionen massiv voneinander abweichen
    <td>Pros
    </td>
    <td>Cons
-   </td>
+   </td>kurzlink github
   </tr>
   <tr>
    <td><a href="https://www.wetteronline.de/">Wetteronline</a>
@@ -46,7 +46,7 @@ Region
    </td>
    <td>Gute Visualisierung der wesentlichen Elemente Gutes Wetter/Niederschlagsradar
    </td>
-   <td>Kein Multimodell keine Modelltransparanz Vorhersagequalität im letzen Jahr (Stand 2018) schwankend insbesondere in komplexeren Wettersituationen im Gebirge
+   <td>Kein Multimodell keine Modelltransparanz Vorhersagequalität in den letzten Jahren bei nicht frontalen Wettervorhersagen sehr schwankend dies gilt vor allem für komplexere Wettersituationen im Gebirge
    </td>
   </tr>
   <tr>

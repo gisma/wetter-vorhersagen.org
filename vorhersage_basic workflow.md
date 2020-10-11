@@ -3,11 +3,11 @@
 
 ## Wetter Apps 
 
-Wetterapps sind eine extrem nützliche un0d hilfreiche Unterstützung bei der Planung aller Outdooraktivitäten. Allerdings gilt wie immer, dass ohne ein wenig Übung und Wissen die Verwendung eher Zufallsergebnisse ergibt. 
+Wetterapps sind eine extrem nützliche und hilfreiche Unterstützung bei der Planung aller Outdooraktivitäten. Allerdings gilt wie immer, dass ohne ein wenig Übung und Wissen, die Verwendung eher **Zufallsergebnisse** ergibt. 
 
-Die nachfolgenden Wetterapps sind nicht in Rangreihenfolge genannt. Meine Favoriten sind Meteoblue und Wetteronline. Erstere wegen der guten Passung für die Alpen, der Multimodell-Vorhersage und den sehr aussagekräftigen Meteogrammen. 
+Die nachfolgenden Wetterapps sind nicht in Rangreihenfolge sondern nur als Auswahl häufig genutzer Apps genannt. Meine Favoriten sind Meteoblue und Wetteronline. Erstere App wegen der guten Passung für die Alpen, der Multimodell-Vorhersage und den sehr aussagekräftigen Meteogrammen. Letztere wegen der herausragenden Wetter- und Wolkenradardarstellung. 
 
-Letztere wegen des guten Wetter- und Wolkenradar, Bitte beachtet das die Iphone und Android Versionen massiv voneinander abweichen können. Bei der Positionsbestimmung (Position) durch Ortsvorhersage wird zwischen den Modellgitterpunkten interpoliert! Für Regionen das hauptsächlich auftretende Wetter gemittelt. 
+Bitte beachtet das die Iphone und Android Versionen massiv voneinander abweichen können (gleiches gilt für die Webbasierte Onlinevariante.  Und sehr wichtig - bei der Positionsbestimmung (Position) durch Auswahl eines Ortsnamens oder klicken in einer Karte werden die *Werte* zwischen den Modellgitterpunkten interpoliert! Für die Auswahl (falls vorhanden) Regionen wird das hauptsächlich auftretende Wetter gemittelt. 
 
 
 <table>
